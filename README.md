@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`The-Forest-Save-Editor` · Updated: 2026-10-07
+`The-Forest-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `the-forest` `save-editor` `survival` `horror` `steam`
